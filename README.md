@@ -13,7 +13,7 @@
 
 [Respawn](https://github.com/jbogard/respawn)
 
-[стратегии для изоляции](https://lostechies.com/jimmybogard/2013/06/18/strategies-for-isolating-the-database-in-tests/)
+[стратегии для изоляции базы](https://lostechies.com/jimmybogard/2013/06/18/strategies-for-isolating-the-database-in-tests/)
 
 [как работает Respawn](https://jimmybogard.com/how-respawn-works)
 
@@ -21,7 +21,9 @@
 https://www.thereformedprogrammer.net/new-features-for-unit-testing-your-entity-framework-core-5-code/
 https://www.thereformedprogrammer.net/getting-better-data-for-unit-testing-your-ef-core-applications/
 https://github.com/JonPSmith/EfCore.TestSupport
+
 https://github.com/JonPSmith/EfCore.TestSupport/wiki/Using-SQLite-in-memory-databases
+
 https://www.thereformedprogrammer.net/using-postgresql-in-dev-part-2-testing-against-a-postgresql-database/
 
 ### Entity Framework Core in Action, Second Edition Jon P. Smith
