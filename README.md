@@ -38,3 +38,6 @@ https://github.com/testcontainers/testcontainers-dotnet
 
 [NUnit](https://wrapt.dev/blog/integration-tests-using-sql-server-db-in-docker)
 
+[О правильной версии](https://medium.com/@guriysamarin/which-version-of-testcontainers-dotnet-should-i-use-or-little-oss-story-9ed3ad77ef17)
+
+
